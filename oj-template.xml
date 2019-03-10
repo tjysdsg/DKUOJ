@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>   
+<fps version="1.2" url="https://github.com/zhblue/freeproblemset/">
+	<generator name="HUSTOJ" url="https://github.com/zhblue/hustoj/"/>
+	<item>
+<title><![CDATA[]]></title>
+<time_limit unit="s"><![CDATA[1]]></time_limit>
+<memory_limit unit="mb"><![CDATA[32]]></memory_limit>
+
+<description><![CDATA[]]></description>
+<input><![CDATA[]]></input> 
+<output><![CDATA[]]></output>
+<sample_input><![CDATA[]]></sample_input>
+<sample_output><![CDATA[]]></sample_output>
+  <test_input><![CDATA[]]></test_input>
+<test_output><![CDATA[]]></test_output>
+<hint><![CDATA[]]></hint>
+<source><![CDATA[]]></source>
+		<solution language="C"><![CDATA[
+        //TODO
+]]></solution>
+		<solution language="C++"><![CDATA[
+        //TODO
+]]></solution>
+        <solution language="Pascal"><![CDATA[{TODO}]]></solution>
+        <solution language="Java"><![CDATA[//TODO]]></solution>
+	</item>
+</fps>
