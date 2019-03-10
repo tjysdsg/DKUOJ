@@ -1,0 +1,48 @@
+<fps url="https://github.com/zhblue/freeproblemset/" version="1.2">
+    <generator name="C/C++" url="https://github.com/zhblue/hustoj/" />
+	<item>
+<title>
+(your title)
+dfsfadfa</title>
+<time_limit unit="s">1</time_limit>
+<memory_limit unit="mb">32</memory_limit>
+
+<description>
+This is a description of the problem
+
+This is another description
+</description>
+<input>
+Here you describe the format of the input</input> 
+<output>
+Here you describe the format of the output</output>
+<sample_input>
+This is a sample input
+And this as well
+Then here is another input
+
+</sample_input>
+<sample_output>
+Output hahaha
+Here
+Look!
+</sample_output>
+  <test_input>
+You know what, this is test input
+</test_input>
+<test_output>
+And output
+Many test cases here
+</test_output>
+<hint>
+Optional, give hint to noobs!</hint>
+<source />
+		<solution language="C">
+        //TODO
+</solution>
+		<solution language="C++">
+        //TODO
+</solution>
+        <solution language="Java">//TODO</solution>
+	</item>
+</fps>

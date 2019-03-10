@@ -1,27 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>   
-<fps version="1.2" url="https://github.com/zhblue/freeproblemset/">
-	<generator name="HUSTOJ" url="https://github.com/zhblue/hustoj/"/>
+<fps url="https://github.com/zhblue/freeproblemset/" version="1.2">
+    <generator name="C/C++" url="https://github.com/zhblue/hustoj/" />
 	<item>
-<title><![CDATA[]]></title>
-<time_limit unit="s"><![CDATA[1]]></time_limit>
-<memory_limit unit="mb"><![CDATA[32]]></memory_limit>
+<title>(your title)dfsfadfa</title>
+<time_limit unit="s">1</time_limit>
+<memory_limit unit="mb">32</memory_limit>
 
-<description><![CDATA[]]></description>
-<input><![CDATA[]]></input> 
-<output><![CDATA[]]></output>
-<sample_input><![CDATA[]]></sample_input>
-<sample_output><![CDATA[]]></sample_output>
-  <test_input><![CDATA[]]></test_input>
-<test_output><![CDATA[]]></test_output>
-<hint><![CDATA[]]></hint>
-<source><![CDATA[]]></source>
-		<solution language="C"><![CDATA[
+<description>(your description)fdDsDdds</description>
+<input>(describe your input)</input> 
+<output>(describe the output)</output>
+<sample_input>(An example input showed to the user)</sample_input>
+<sample_output>(An example output showed to the user)</sample_output>
+  <test_input>(The Test input)</test_input>
+<test_output>(The Test output)</test_output>
+<hint>(Hint)</hint>
+<source />
+		<solution language="C">
         //TODO
-]]></solution>
-		<solution language="C++"><![CDATA[
+</solution>
+		<solution language="C++">
         //TODO
-]]></solution>
-        <solution language="Pascal"><![CDATA[{TODO}]]></solution>
-        <solution language="Java"><![CDATA[//TODO]]></solution>
+</solution>
+        <solution language="Java">//TODO</solution>
 	</item>
 </fps>
