@@ -4,7 +4,8 @@ parser = argparse.ArgumentParser(prog='docx2xml',description='Convert docx to xm
 parser.add_argument('filename',type=str, action='store', help='docx file to convert')
 
 full_file_name = vars(parser.parse_args())['filename']
-file_name = full_file_name.split('.')[0]
+print("parsing",full_file_name)
+file_name = full_file_name.split('.docx')[0]
 
 # the directory which contains this file
 import os
@@ -35,6 +36,7 @@ section_content = {"Title":"",
 "Source/Category":""
 }
 
+t = "Title"
 # parse paragraph by paragraph, but some content might contains multiple paragraphs
 for i in range(len(doc.paragraphs)):
     if doc.paragraphs[i].text in section_content.keys():
