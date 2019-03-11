@@ -13,7 +13,7 @@
   <test_input>(The Test input)</test_input>
 <test_output>(The Test output)</test_output>
 <hint>(Hint)</hint>
-<source />
+<source>C/C++</source>
 		<solution language="C">
         //TODO
 </solution>
