@@ -1,6 +1,6 @@
 echo "working at `pwd`"
 cwd=`pwd`
-gcc "${cwd}/main.cpp"
+gcc $1
 
 for f in `find ${cwd} -name "*.in"`
 do
